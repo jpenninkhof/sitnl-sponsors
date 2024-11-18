@@ -1,0 +1,5 @@
+{
+  "ProjectOverviewURL": "https://presalesnl-buildapps.launchpad.cfapps.eu12.hana.ondemand.com/lcapsitnl.sitnlLaunchpad-1.0.0/",
+  "DeployedUTCTime": "2024-10-29T22:46:44.651Z",
+  "ApplicationLogURL": "https://logs.cf.eu12.hana.ondemand.com/app/dashboards#/view/Overview?_g=(filters:!((query:(match_phrase:(component_name:sitnl-srv)))))"
+}

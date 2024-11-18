@@ -1,0 +1,2 @@
+sap.ui.define(["sap/fe/test/ListReport"],function(s){"use strict";var t={actions:{},assertions:{}};return new s({appId:"sitnl.sponsors",componentId:"SponsorsList",contextPath:"/Sponsors"},t)});
+//# sourceMappingURL=SponsorsList.js.map
